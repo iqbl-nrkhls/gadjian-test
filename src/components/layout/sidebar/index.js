@@ -15,7 +15,7 @@ export default function Sidebar() {
     <aside ref={ref} className={`bg-white w-[280px] h-screen p-8 absolute md:relative top-0 left-0 transition md:translate-x-0
     ${!showMenu ? '-translate-x-full' : 'shadow-lg md:shadow-none'}
     `}>
-      <img className="mb-10" src="assets/images/logo_gadjian.png" alt="" />
+      <img className="mb-10" src="./assets/images/logo_gadjian.png" alt="" />
       <nav>
         <ul className="font-bold space-y-4">
           <li>
