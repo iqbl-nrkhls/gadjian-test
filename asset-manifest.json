@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gadjian-test/static/css/main.943509ec.css",
+    "main.js": "/gadjian-test/static/js/main.c9a17c01.js",
+    "index.html": "/gadjian-test/index.html",
+    "main.943509ec.css.map": "/gadjian-test/static/css/main.943509ec.css.map",
+    "main.c9a17c01.js.map": "/gadjian-test/static/js/main.c9a17c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943509ec.css",
+    "static/js/main.c9a17c01.js"
+  ]
+}
